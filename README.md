@@ -1,4 +1,4 @@
-# Другий проект на курсі "Java Developer" у IT Logos Academy
+# Перший навчальний проект на курсі "Java Developer" у IT Logos Academy
 
 <p>
 Прокект виконаний із використанням технологій Java servlets API,збірка виконана за допомогою інстурументу Maven. У проекті реалізовані CRUD операції для об'єктів (User,Article,Bucket) із проектом додається backup бази даних MySQL
